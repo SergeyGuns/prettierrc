@@ -7,8 +7,9 @@ Auto-save format
   "[javascriptreact]": {
     "editor.formatOnSave": true
   },
- 
+
 
 Command create file .prettierrc
+$cd /project_root_folder
 $ echo '{"singleQuote": true,"jsxSingleQuote": true,"trailingComma": "all","semi":true}' > .prettierrc
 ```
