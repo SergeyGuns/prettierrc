@@ -1,4 +1,4 @@
-[https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode][https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode]
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 ```
 Auto-save format 
   VS code / settings.json
