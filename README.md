@@ -12,5 +12,5 @@ Auto-save format
 
 Command create file .prettierrc
 $ cd /project_root_folder
-$ echo '{"singleQuote": true,"jsxSingleQuote": true,"trailingComma": "none","semi":true}' > .prettierrc
+$ echo '{"singleQuote": true,"jsxSingleQuote": true,"trailingComma": "none","semi":true, "printWidth": 100}' > .prettierrc
 ```
